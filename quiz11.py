@@ -7,7 +7,7 @@ class QA:
     self.otherAnsw = otherAnswers
 
 qaList = [QA("Which is Joe Satriani's third album?", "Flyin' in a blue dream", ["The Extrimist", "Time Machine"]),
-QA("Which is Joe Striani's second album?", "Surfing with the Alien", ["Flyin' in a blue dream", "Is there love in space?", "Super Colossal"]),
+QA("Which is Joe Satriani's second album?", "Surfing with the Alien", ["Flyin' in a blue dream", "Is there love in space?", "Super Colossal"]),
 QA("Which is Fates Warning's tenth album?", "X", ["Parallels", "Perfect Symmetry", "Inside out"]),
 QA("Which is Fates Warning's ninth album?", "Disconnected", ["Parallels", "Inside out"]),
 QA("Which is Fates Warning's eighth album?", "A Pleasant Shade of Gray", ["X", "XI", "VIII", "Parallels"])]
